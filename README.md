@@ -6,3 +6,4 @@
 # Ziel
 - [ ] Eine Zusammenfassung einiger Repositories herunterladen
 - [ ] Tabellarisch anzeigen
+- [ ] flexibel halten
