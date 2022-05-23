@@ -5,3 +5,4 @@
 &#x1F600; &#x1F600; &#x1F609;
 # Ziel
 - [ ] Eine Zusammenfassung einiger Repositories herunterladen
+- [ ] Tabellarisch anzeigen
