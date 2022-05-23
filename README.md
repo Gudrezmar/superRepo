@@ -1,4 +1,4 @@
-# testRepo
+# my Favorites:
 &#x1F957; &#x1F35D; &#x1F36B;
 &#x1F527; &#x2699;
 &#x1F3C4; 
