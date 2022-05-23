@@ -3,3 +3,5 @@
 &#x1F527; &#x2699;
 &#x1F3C4; 
 &#x1F600; &#x1F600; &#x1F609;
+# Ziel
+- [ ] Eine Zusammenfassung einiger Repositories herunterladen
