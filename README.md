@@ -4,6 +4,6 @@
 &#x1F3C4; &#x1F4C0; &#x1F4BB;
 &#x1F600; &#x1F58A; &#x1F600; &#x1F609;
 # Ziel
-- [ ] Eine Zusammenfassung einiger Repositories herunterladen
+- [ ] Eine Zusammenfassung eigener Repositories herunterladen
 - [ ] Tabellarisch anzeigen
 - [ ] flexibel halten
