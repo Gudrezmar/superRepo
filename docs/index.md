@@ -1,12 +1,12 @@
 ## Welcome to GitHub Pages
 
-Mit dem [editor on GitHub](https://github.com/Gudrezmar/superRepo/edit/main/docs/index.md) kann der Inhalt betrachtet und bearbeitet werden (in Markdown files).
+Mit dem [Editor on GitHub](https://github.com/Gudrezmar/superRepo/edit/main/docs/index.md) kann der Inhalt betrachtet und bearbeitet werden (in Markdown files).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown ist eine einfache Syntax um Text zu stylen. Zum Beispiel mit
 
 ```markdown
 Syntax highlighted code block
