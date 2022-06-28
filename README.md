@@ -7,3 +7,4 @@
 - [ ] Eine Zusammenfassung eigener Repositories herunterladen
 - [ ] Tabellarisch anzeigen
 - [ ] flexibel halten
+- [ ] auch für Mobil
