@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Willkommen zu den isb-Solutions GitHub-Pages
 
 Mit dem [Editor on GitHub](https://github.com/Gudrezmar/superRepo/edit/main/docs/index.md) kann der Inhalt betrachtet und bearbeitet werden (in Markdown files).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bei jedem Update in diesem Repository wird GitHub Pages [Jekyll](https://jekyllrb.com/) laufen, um die Seite aus den Markdown Dateien neu aufzubauen.
 
 ### Markdown
 
